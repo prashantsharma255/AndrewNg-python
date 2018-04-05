@@ -122,4 +122,5 @@ plt.plot(x , regr.predict(x) , c='r')
 
 print(regr.coef_)
 print(regr.intercept_)
+print()
 '''
